@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9dqansib3oyxl1pf?svg=true)](https://ci.appveyor.com/project/Gapi-gap/testjava-block3-lesson-2)
